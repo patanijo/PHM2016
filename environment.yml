@@ -1,0 +1,10 @@
+name: phm2016
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - spark
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
