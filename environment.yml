@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - pandas
-  - spark
+  - pyspark=2.3
   - numpy
   - scikit-learn
   - matplotlib
